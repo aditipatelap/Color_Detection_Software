@@ -18,8 +18,12 @@ This program is performing an extraction for getting the RGB Color Histogram val
   
 ## Sample Output ##  
 
-<img src="https://github.com/aditipatelap/Color_Detection_Software/blob/main/Output/output1.png" width="500"/>
+<img src="https://github.com/aditipatelap/Color_Detection_Software/blob/main/Output/output1.png" width="450"/> <img src="https://github.com/aditipatelap/Color_Detection_Software/blob/main/Output/output2.png" width="450"/>
 
-<img src="https://github.com/aditipatelap/Color_Detection_Software/blob/main/Output/output2.png" width="400"/>  <img src="https://github.com/aditipatelap/Color_Detection_Software/blob/main/Output/output3.png" width="500"/>
+<img src="https://github.com/aditipatelap/Color_Detection_Software/blob/main/Output/output3.png" width="750"/>
 
-<img src="https://github.com/aditipatelap/Color_Detection_Software/blob/main/Output/output4.png" width="500"/>  <img src="https://github.com/aditipatelap/Color_Detection_Software/blob/main/Output/output5.png" width="500"/>
+<img src="https://github.com/aditipatelap/Color_Detection_Software/blob/main/Output/output4.png" width="500"/>  <img src="https://github.com/aditipatelap/Color_Detection_Software/blob/main/Output/output5.png" width="500"/>  
+
+#### Note: ####  
+Run [GUI.py](https://github.com/aditipatelap/Color_Detection_Software/blob/main/GUI.py) in your environment for excution.  
+To exit the application, just press the ESC key. 

@@ -14,3 +14,6 @@ All colors in the world are made up of these primary colors with a different val
 In computer vision, the color detection mechanism is almost the same as in human eyes but it should be programmed using algorithms and some logic procedures that enable the CPU to take that piece of color and apply the proper mathematical and logical operations to take a decision of what color that piece includes according to its recognition about all color names.  
   
 This program is performing an extraction for getting the RGB Color Histogram values from the image. Those RGB values leading and worldwide used by designers, artists, professionals, developers, scientists, and color-blinds.
+  
+  
+## Sample Output ##  

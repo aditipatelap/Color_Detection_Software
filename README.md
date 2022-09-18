@@ -1,4 +1,4 @@
-# Color Detection_ Software  
+# Color Detection Software  
 Hello Everybody.👋 I hope you all are fine.😊  
 I tried to make software that can detect and extract the RGB value of that particular color from any image.  
   

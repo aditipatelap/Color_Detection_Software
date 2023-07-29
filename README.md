@@ -25,7 +25,11 @@ This program is performing an extraction for getting the RGB Color Histogram val
 
 <img width="800" alt="output4" src="https://github.com/aditipatelap/Color_Detection_Software/assets/77919745/3aa3197d-e953-416e-8ca1-3c3e9ec1f0f1">
 
-![output5](https://github.com/aditipatelap/Color_Detection_Software/assets/77919745/07ce68af-3903-47ec-9ba0-5a922e598a5d)
+<img width="800" alt="output4" src="https://github.com/aditipatelap/Color_Detection_Software/assets/77919745/3aa3197d-e953-416e-8ca1-3c3e9ec1f0f1">
+
+<img width="800" alt="output4" src="https://github.com/aditipatelap/Color_Detection_Software/assets/77919745/663a5e13-6d9a-4427-8be5-122ac600eb53">
+
+![output5](https://github.com/aditipatelap/Color_Detection_Software/assets/77919745/663a5e13-6d9a-4427-8be5-122ac600eb53)
 
 #### Note: ####  
 Run [GUI.py](https://github.com/aditipatelap/Color_Detection_Software/blob/main/GUI.py) in your environment for excution.  

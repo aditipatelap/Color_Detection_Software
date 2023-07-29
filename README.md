@@ -21,15 +21,12 @@ This program is performing an extraction for getting the RGB Color Histogram val
 
 <img width="450" alt="output2" src="https://github.com/aditipatelap/Color_Detection_Software/assets/77919745/15e5acca-1972-4b54-afa1-e4a6f4d35275">
 
-<img width="750" alt="output3" src="https://github.com/aditipatelap/Color_Detection_Software/assets/77919745/28c96cc4-ba1b-4107-8930-434b81ea9091">
+<img width="800" alt="output3" src="https://github.com/aditipatelap/Color_Detection_Software/assets/77919745/28c96cc4-ba1b-4107-8930-434b81ea9091">
 
-<img width="800" alt="output4" src="https://github.com/aditipatelap/Color_Detection_Software/assets/77919745/3aa3197d-e953-416e-8ca1-3c3e9ec1f0f1">
+<img width="750" alt="output4" src="https://github.com/aditipatelap/Color_Detection_Software/assets/77919745/3aa3197d-e953-416e-8ca1-3c3e9ec1f0f1">
 
-<img width="800" alt="output4" src="https://github.com/aditipatelap/Color_Detection_Software/assets/77919745/3aa3197d-e953-416e-8ca1-3c3e9ec1f0f1">
+<img width="750" alt="output4" src="https://github.com/aditipatelap/Color_Detection_Software/assets/77919745/663a5e13-6d9a-4427-8be5-122ac600eb53">
 
-<img width="800" alt="output4" src="https://github.com/aditipatelap/Color_Detection_Software/assets/77919745/663a5e13-6d9a-4427-8be5-122ac600eb53">
-
-![output5](https://github.com/aditipatelap/Color_Detection_Software/assets/77919745/663a5e13-6d9a-4427-8be5-122ac600eb53)
 
 #### Note: ####  
 Run [GUI.py](https://github.com/aditipatelap/Color_Detection_Software/blob/main/GUI.py) in your environment for excution.  

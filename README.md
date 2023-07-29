@@ -17,9 +17,9 @@ This program is performing an extraction for getting the RGB Color Histogram val
   
   
 ## Sample Output ##  
-<img width="401" alt="output1" src="https://github.com/aditipatelap/Color_Detection_Software/assets/77919745/05d023d1-5755-4e16-862a-e1f47eb62744">
+<img width="401" alt="output1" src="https://github.com/aditipatelap/Color_Detection_Software/assets/77919745/05d023d1-5755-4e16-862a-e1f47eb62744" width="450">
 
-<img width="409" alt="output2" src="https://github.com/aditipatelap/Color_Detection_Software/assets/77919745/15e5acca-1972-4b54-afa1-e4a6f4d35275">
+<img width="409" alt="output2" src="https://github.com/aditipatelap/Color_Detection_Software/assets/77919745/15e5acca-1972-4b54-afa1-e4a6f4d35275" widt="450">
 
 
 ![](/Color_Detection_Software/blob/main/Output/output1.png)
